@@ -8,6 +8,10 @@ namespace labolatorium_3___App.Models
         [HiddenInput]
         public int Id { get; set; }
 
+        [HiddenInput]
+        public DateTime Created { get; set; }
+
+
         [Display(Name = "Imię")]
         [Required(ErrorMessage = "Musisz podać imię")]
         [StringLength(maximumLength: 100, ErrorMessage ="Zbyt długie imię, maksymalnie 100 znakow")]
@@ -28,6 +32,7 @@ namespace labolatorium_3___App.Models
 
         [Display(Name = "Priorytet")]
         public Priority Priority { get; set; }
+
 
 
     }

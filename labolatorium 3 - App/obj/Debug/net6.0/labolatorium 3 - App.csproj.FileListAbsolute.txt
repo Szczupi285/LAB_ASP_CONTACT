@@ -55,3 +55,29 @@ E:\repository\LAB_THROWAWAY\Laboratorium ASP NET\labolatorium 3 - App\obj\Debug\
 E:\repository\LAB_THROWAWAY\Laboratorium ASP NET\labolatorium 3 - App\obj\Debug\net6.0\scopedcss\projectbundle\labolatorium 3 - App.bundle.scp.css
 E:\repository\LAB_THROWAWAY\Laboratorium ASP NET\labolatorium 3 - App\obj\Debug\net6.0\labolatorium 3 - App.genruntimeconfig.cache
 E:\repository\LAB_THROWAWAY\Laboratorium ASP NET\labolatorium 3 - App\obj\Debug\net6.0\ref\labolatorium 3 - App.dll
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\bin\Debug\net6.0\appsettings.Development.json
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\bin\Debug\net6.0\appsettings.json
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\bin\Debug\net6.0\labolatorium 3 - App.staticwebassets.runtime.json
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\bin\Debug\net6.0\labolatorium 3 - App.exe
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\bin\Debug\net6.0\labolatorium 3 - App.deps.json
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\bin\Debug\net6.0\labolatorium 3 - App.runtimeconfig.json
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\bin\Debug\net6.0\labolatorium 3 - App.dll
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\bin\Debug\net6.0\labolatorium 3 - App.pdb
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\obj\Debug\net6.0\labolatorium 3 - App.csproj.AssemblyReference.cache
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\obj\Debug\net6.0\labolatorium 3 - App.GeneratedMSBuildEditorConfig.editorconfig
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\obj\Debug\net6.0\labolatorium 3 - App.AssemblyInfoInputs.cache
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\obj\Debug\net6.0\labolatorium 3 - App.AssemblyInfo.cs
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\obj\Debug\net6.0\labolatorium 3 - App.csproj.CoreCompileInputs.cache
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\obj\Debug\net6.0\labolatorium 3 - App.MvcApplicationPartsAssemblyInfo.cache
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\obj\Debug\net6.0\labolatorium 3 - App.RazorAssemblyInfo.cache
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\obj\Debug\net6.0\labolatorium 3 - App.RazorAssemblyInfo.cs
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\obj\Debug\net6.0\staticwebassets.build.json
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\obj\Debug\net6.0\staticwebassets.development.json
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\obj\Debug\net6.0\scopedcss\bundle\labolatorium 3 - App.styles.css
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\obj\Debug\net6.0\scopedcss\projectbundle\labolatorium 3 - App.bundle.scp.css
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\obj\Debug\net6.0\labolatorium 3 - App.dll
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\obj\Debug\net6.0\refint\labolatorium 3 - App.dll
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\obj\Debug\net6.0\labolatorium 3 - App.pdb
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\obj\Debug\net6.0\labolatorium 3 - App.genruntimeconfig.cache
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\obj\Debug\net6.0\ref\labolatorium 3 - App.dll

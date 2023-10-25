@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\repository\\LAB_THROWAWAY\\Laboratorium ASP NET\\labolatorium 3 - App\\labolatorium 3 - App.csproj": {}
+    "E:\\repository\\LAB_THROWAWAY\\Laboratorium_ASP_NET\\labolatorium 3 - App\\labolatorium 3 - App.csproj": {}
   },
   "projects": {
-    "E:\\repository\\LAB_THROWAWAY\\Laboratorium ASP NET\\labolatorium 3 - App\\labolatorium 3 - App.csproj": {
+    "E:\\repository\\LAB_THROWAWAY\\Laboratorium_ASP_NET\\labolatorium 3 - App\\labolatorium 3 - App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\repository\\LAB_THROWAWAY\\Laboratorium ASP NET\\labolatorium 3 - App\\labolatorium 3 - App.csproj",
+        "projectUniqueName": "E:\\repository\\LAB_THROWAWAY\\Laboratorium_ASP_NET\\labolatorium 3 - App\\labolatorium 3 - App.csproj",
         "projectName": "labolatorium 3 - App",
-        "projectPath": "E:\\repository\\LAB_THROWAWAY\\Laboratorium ASP NET\\labolatorium 3 - App\\labolatorium 3 - App.csproj",
+        "projectPath": "E:\\repository\\LAB_THROWAWAY\\Laboratorium_ASP_NET\\labolatorium 3 - App\\labolatorium 3 - App.csproj",
         "packagesPath": "C:\\Users\\barte\\.nuget\\packages\\",
-        "outputPath": "E:\\repository\\LAB_THROWAWAY\\Laboratorium ASP NET\\labolatorium 3 - App\\obj\\",
+        "outputPath": "E:\\repository\\LAB_THROWAWAY\\Laboratorium_ASP_NET\\labolatorium 3 - App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\vs2022\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\repository\\LAB_THROWAWAY\\Laboratorium ASP NET\\labolatorium2\\labolatorium2.csproj": {}
+    "E:\\repository\\LAB_THROWAWAY\\Laboratorium_ASP_NET\\labolatorium2\\labolatorium2.csproj": {}
   },
   "projects": {
-    "E:\\repository\\LAB_THROWAWAY\\Laboratorium ASP NET\\labolatorium2\\labolatorium2.csproj": {
+    "E:\\repository\\LAB_THROWAWAY\\Laboratorium_ASP_NET\\labolatorium2\\labolatorium2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\repository\\LAB_THROWAWAY\\Laboratorium ASP NET\\labolatorium2\\labolatorium2.csproj",
+        "projectUniqueName": "E:\\repository\\LAB_THROWAWAY\\Laboratorium_ASP_NET\\labolatorium2\\labolatorium2.csproj",
         "projectName": "labolatorium2",
-        "projectPath": "E:\\repository\\LAB_THROWAWAY\\Laboratorium ASP NET\\labolatorium2\\labolatorium2.csproj",
+        "projectPath": "E:\\repository\\LAB_THROWAWAY\\Laboratorium_ASP_NET\\labolatorium2\\labolatorium2.csproj",
         "packagesPath": "C:\\Users\\barte\\.nuget\\packages\\",
-        "outputPath": "E:\\repository\\LAB_THROWAWAY\\Laboratorium ASP NET\\labolatorium2\\obj\\",
+        "outputPath": "E:\\repository\\LAB_THROWAWAY\\Laboratorium_ASP_NET\\labolatorium2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\vs2022\\NuGetPackages"
