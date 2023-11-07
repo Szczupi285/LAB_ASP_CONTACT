@@ -11,6 +11,7 @@ namespace labolatorium_3___App
             // Add services to the container.
             builder.Services.AddControllersWithViews();
             builder.Services.AddSingleton<IContactService, MemoryContactService>();
+            builder.Services.AddSingleton<IForumService, MemoryForumService>();
             builder.Services.AddSingleton<IDateTimeProvidercs, CurrentDateTimeProvider>();
 
             var app = builder.Build();

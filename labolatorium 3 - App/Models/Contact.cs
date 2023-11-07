@@ -22,6 +22,7 @@ namespace labolatorium_3___App.Models
         [EmailAddress(ErrorMessage ="Niepoprawny adres E-Mail")]
         public string Email { get; set; }
 
+        [StringLength(maximumLength: 9, ErrorMessage = "Maksymalnie 9 cyfr")]
         [Phone(ErrorMessage = "niepoprawny numer telefonu, wpisz 9 cyfr")]
         [Display(Name = "Numer telefonu")]
         public string Phone { get; set; }

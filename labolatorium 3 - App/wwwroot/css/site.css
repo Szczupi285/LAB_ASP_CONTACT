@@ -16,3 +16,7 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.tall-input {
+    height: 300px;
+}
