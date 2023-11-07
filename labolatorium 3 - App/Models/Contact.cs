@@ -29,6 +29,7 @@ namespace labolatorium_3___App.Models
 
         [Display(Name = "Data urodzenia")]
         [DataType(DataType.Date)]
+        [Required]
         public DateTime Birth {get; set;}
 
         [Display(Name = "Priorytet")]
