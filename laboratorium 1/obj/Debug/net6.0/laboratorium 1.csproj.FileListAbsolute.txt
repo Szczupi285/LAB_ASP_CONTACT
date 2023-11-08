@@ -60,3 +60,29 @@ D:\Users\bartosz.bienienda\source\repos\LAB_ASP_CONTACT\laboratorium 1\obj\Debug
 D:\Users\bartosz.bienienda\source\repos\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\laboratorium 1.pdb
 D:\Users\bartosz.bienienda\source\repos\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\laboratorium 1.genruntimeconfig.cache
 D:\Users\bartosz.bienienda\source\repos\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\ref\laboratorium 1.dll
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\bin\Debug\net6.0\appsettings.Development.json
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\bin\Debug\net6.0\appsettings.json
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\bin\Debug\net6.0\laboratorium 1.staticwebassets.runtime.json
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\bin\Debug\net6.0\laboratorium 1.exe
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\bin\Debug\net6.0\laboratorium 1.deps.json
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\bin\Debug\net6.0\laboratorium 1.runtimeconfig.json
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\bin\Debug\net6.0\laboratorium 1.dll
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\bin\Debug\net6.0\laboratorium 1.pdb
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\obj\Debug\net6.0\laboratorium 1.csproj.AssemblyReference.cache
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\obj\Debug\net6.0\laboratorium 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\obj\Debug\net6.0\laboratorium 1.AssemblyInfoInputs.cache
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\obj\Debug\net6.0\laboratorium 1.AssemblyInfo.cs
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\obj\Debug\net6.0\laboratorium 1.csproj.CoreCompileInputs.cache
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\obj\Debug\net6.0\laboratorium 1.MvcApplicationPartsAssemblyInfo.cache
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\obj\Debug\net6.0\laboratorium 1.RazorAssemblyInfo.cache
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\obj\Debug\net6.0\laboratorium 1.RazorAssemblyInfo.cs
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\obj\Debug\net6.0\staticwebassets.build.json
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\obj\Debug\net6.0\staticwebassets.development.json
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\obj\Debug\net6.0\scopedcss\bundle\laboratorium 1.styles.css
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\obj\Debug\net6.0\scopedcss\projectbundle\laboratorium 1.bundle.scp.css
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\obj\Debug\net6.0\laboratorium 1.dll
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\obj\Debug\net6.0\refint\laboratorium 1.dll
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\obj\Debug\net6.0\laboratorium 1.pdb
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\obj\Debug\net6.0\laboratorium 1.genruntimeconfig.cache
+E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\laboratorium 1\obj\Debug\net6.0\ref\laboratorium 1.dll

@@ -12,7 +12,7 @@ namespace Data
     {
         private string DbPath { get; set; }
 
-        protected AppDbContext()
+        public AppDbContext()
         {
             var folder = Environment.SpecialFolder.LocalApplicationData;
             var path = Environment.GetFolderPath(folder);

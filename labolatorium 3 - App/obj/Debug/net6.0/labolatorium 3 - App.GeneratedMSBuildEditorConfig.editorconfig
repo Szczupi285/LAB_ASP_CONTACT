@@ -5,81 +5,80 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = labolatorium_3___App
 build_property.RootNamespace = labolatorium_3___App
-build_property.ProjectDir = D:\Users\bartosz.bienienda\source\repos\LAB_ASP_CONTACT\labolatorium 3 - App\
+build_property.ProjectDir = E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Users\bartosz.bienienda\source\repos\LAB_ASP_CONTACT\labolatorium 3 - App
+build_property.MSBuildProjectDirectory = E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\labolatorium 3 - App
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Users/bartosz.bienienda/source/repos/LAB_ASP_CONTACT/labolatorium 3 - App/Views/Contact/Create.cshtml]
+[E:/repository/LAB_THROWAWAY/Laboratorium_ASP_NET/labolatorium 3 - App/Views/Contact/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/bartosz.bienienda/source/repos/LAB_ASP_CONTACT/labolatorium 3 - App/Views/Contact/Delete.cshtml]
+[E:/repository/LAB_THROWAWAY/Laboratorium_ASP_NET/labolatorium 3 - App/Views/Contact/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/bartosz.bienienda/source/repos/LAB_ASP_CONTACT/labolatorium 3 - App/Views/Contact/Details.cshtml]
+[E:/repository/LAB_THROWAWAY/Laboratorium_ASP_NET/labolatorium 3 - App/Views/Contact/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/bartosz.bienienda/source/repos/LAB_ASP_CONTACT/labolatorium 3 - App/Views/Contact/Index.cshtml]
+[E:/repository/LAB_THROWAWAY/Laboratorium_ASP_NET/labolatorium 3 - App/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/bartosz.bienienda/source/repos/LAB_ASP_CONTACT/labolatorium 3 - App/Views/Contact/Update.cshtml]
+[E:/repository/LAB_THROWAWAY/Laboratorium_ASP_NET/labolatorium 3 - App/Views/Contact/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/bartosz.bienienda/source/repos/LAB_ASP_CONTACT/labolatorium 3 - App/Views/Forum/Create.cshtml]
+[E:/repository/LAB_THROWAWAY/Laboratorium_ASP_NET/labolatorium 3 - App/Views/Forum/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/bartosz.bienienda/source/repos/LAB_ASP_CONTACT/labolatorium 3 - App/Views/Forum/Delete.cshtml]
+[E:/repository/LAB_THROWAWAY/Laboratorium_ASP_NET/labolatorium 3 - App/Views/Forum/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/bartosz.bienienda/source/repos/LAB_ASP_CONTACT/labolatorium 3 - App/Views/Forum/Details.cshtml]
+[E:/repository/LAB_THROWAWAY/Laboratorium_ASP_NET/labolatorium 3 - App/Views/Forum/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/bartosz.bienienda/source/repos/LAB_ASP_CONTACT/labolatorium 3 - App/Views/Forum/Index.cshtml]
+[E:/repository/LAB_THROWAWAY/Laboratorium_ASP_NET/labolatorium 3 - App/Views/Forum/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/bartosz.bienienda/source/repos/LAB_ASP_CONTACT/labolatorium 3 - App/Views/Forum/Update.cshtml]
+[E:/repository/LAB_THROWAWAY/Laboratorium_ASP_NET/labolatorium 3 - App/Views/Forum/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1cVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/bartosz.bienienda/source/repos/LAB_ASP_CONTACT/labolatorium 3 - App/Views/Home/Index.cshtml]
+[E:/repository/LAB_THROWAWAY/Laboratorium_ASP_NET/labolatorium 3 - App/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/bartosz.bienienda/source/repos/LAB_ASP_CONTACT/labolatorium 3 - App/Views/Home/Privacy.cshtml]
+[E:/repository/LAB_THROWAWAY/Laboratorium_ASP_NET/labolatorium 3 - App/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/bartosz.bienienda/source/repos/LAB_ASP_CONTACT/labolatorium 3 - App/Views/Shared/Error.cshtml]
+[E:/repository/LAB_THROWAWAY/Laboratorium_ASP_NET/labolatorium 3 - App/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/bartosz.bienienda/source/repos/LAB_ASP_CONTACT/labolatorium 3 - App/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/repository/LAB_THROWAWAY/Laboratorium_ASP_NET/labolatorium 3 - App/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/bartosz.bienienda/source/repos/LAB_ASP_CONTACT/labolatorium 3 - App/Views/_ViewImports.cshtml]
+[E:/repository/LAB_THROWAWAY/Laboratorium_ASP_NET/labolatorium 3 - App/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/bartosz.bienienda/source/repos/LAB_ASP_CONTACT/labolatorium 3 - App/Views/_ViewStart.cshtml]
+[E:/repository/LAB_THROWAWAY/Laboratorium_ASP_NET/labolatorium 3 - App/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/bartosz.bienienda/source/repos/LAB_ASP_CONTACT/labolatorium 3 - App/Views/Shared/_Layout.cshtml]
+[E:/repository/LAB_THROWAWAY/Laboratorium_ASP_NET/labolatorium 3 - App/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3dmym4re64
