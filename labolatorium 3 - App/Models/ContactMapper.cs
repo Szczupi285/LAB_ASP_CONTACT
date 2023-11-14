@@ -13,6 +13,7 @@ namespace labolatorium_3___App.Models
                 Email = model.Email,
                 Phone = model.Phone,
                 Birth = model.Birth,
+                OrganizationId = model.OrganizationId,
 
             };
         }
@@ -26,6 +27,7 @@ namespace labolatorium_3___App.Models
                 Email = entity.Email,
                 Phone = entity.Phone,
                 Birth = entity.Birth,
+                OrganizationId = entity.OrganizationId,
             };
         }
     }

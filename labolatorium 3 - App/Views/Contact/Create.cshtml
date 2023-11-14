@@ -33,6 +33,10 @@
         <span asp-validation-for="Priority" class="text-danger"></span>
         <select class="form-control" asp-for="Priority" asp-items="@Html.GetEnumSelectList<Priority>()"></select>
     </div>
+    <div>
+        <label asp-for="OrganizationId">Organisation</label>
+        <select class="form-control" asp-for="OrganizationId" asp-items="@Model.Organizations"></select>
+    </div>
     <div class="mb-3">
         <button class ="btn btn-primary"type="submit">Create</button>
     </div>

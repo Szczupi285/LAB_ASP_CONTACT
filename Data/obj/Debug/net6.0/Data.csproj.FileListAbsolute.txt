@@ -26,3 +26,17 @@ E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\Data\obj\Debug\net6.0\refint\Da
 E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\Data\obj\Debug\net6.0\Data.pdb
 E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
 E:\repository\LAB_THROWAWAY\Laboratorium_ASP_NET\Data\obj\Debug\net6.0\ref\Data.dll
+D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\Data\bin\Debug\net6.0\Data.deps.json
+D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\Data\bin\Debug\net6.0\Data.dll
+D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\Data\bin\Debug\net6.0\Data.pdb
+D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\Data.dll
+D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\refint\Data.dll
+D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\Data.pdb
+D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\ref\Data.dll

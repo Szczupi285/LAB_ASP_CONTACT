@@ -36,11 +36,15 @@ namespace labolatorium_3___App.Models
             return _context.Contacts.Select(e => ContactMapper.FromEntity(e)).ToList();
         }
 
+        public List<OrganizationEntity> FindAllOrganizations()
+        {
+            return _context.Organizations.ToList();
+        }
+
         public Contact? FindById(int id)
         {
             ContactEntity? find = _context.Contacts.Find(id);
             return find == null ? null : ContactMapper.FromEntity(find);
-            throw new NotImplementedException();
         }
 
         public void Update(Contact contact)

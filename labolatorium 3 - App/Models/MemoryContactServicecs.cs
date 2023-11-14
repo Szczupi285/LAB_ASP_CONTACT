@@ -1,4 +1,6 @@
-﻿namespace labolatorium_3___App.Models
+﻿using Data.Entities;
+
+namespace labolatorium_3___App.Models
 {
     public class MemoryContactService : IContactService
     {
@@ -37,6 +39,11 @@
         public void Update(Contact item)
         {
             _items[item.Id] = item;
+        }
+
+        public List<OrganizationEntity> FindAllOrganizations()
+        {
+            throw new NotImplementedException();
         }
     }
 }
