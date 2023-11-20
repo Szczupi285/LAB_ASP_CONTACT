@@ -52,7 +52,22 @@ namespace labolatorium_3___App.Controllers
         [HttpGet]
         public IActionResult Update(int id)
         {
-            return View(_contactService.FindById(id));
+            Contact model = _contactService.FindById(id);
+            model.Organizations = _contactService.FindAllOrganizations()
+              .Select(oe => new Microsoft.AspNetCore.Mvc.Rendering.SelectListItem()
+              {
+                  Text = oe.Name,
+                  Value = oe.Id.ToString(),
+              }).ToList();
+            model.Organizations.Add(new Microsoft.AspNetCore.Mvc.Rendering.SelectListItem()
+            {
+                Text = "Brak organizacji",
+                Value = "",
+            });
+
+            return View(model);
+
+            
         }
 
         [HttpPost]

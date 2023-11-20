@@ -40,3 +40,17 @@ D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\refint\Data.dll
 D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\Data.pdb
 D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
 D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\ref\Data.dll
+E:\repository\LAB_ASP_CONTACT\Data\bin\Debug\net6.0\Data.deps.json
+E:\repository\LAB_ASP_CONTACT\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+E:\repository\LAB_ASP_CONTACT\Data\bin\Debug\net6.0\Data.dll
+E:\repository\LAB_ASP_CONTACT\Data\bin\Debug\net6.0\Data.pdb
+E:\repository\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+E:\repository\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\repository\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+E:\repository\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+E:\repository\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+E:\repository\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\Data.dll
+E:\repository\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\refint\Data.dll
+E:\repository\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\Data.pdb
+E:\repository\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+E:\repository\LAB_ASP_CONTACT\Data\obj\Debug\net6.0\ref\Data.dll
