@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hFHNZnB0Umu2WkgCiWdWlC2Iy8eu9h31MjTSTLpkZSfX3nc7CfajN6Vn9AbkrxSpFnmduncn+BPa9k1/jscREg==",
+  "dgSpecHash": "OMLbKCo2WL/ZcRbb+1rIFDyNJ4jnFknbcYfMyqrxzn0WQPklbyy18+LfoY5puWbeJIE8jBCNjdLLvBx8vcI+Zw==",
   "success": true,
   "projectFilePath": "D:\\Users\\bartosz.bienienda\\LAB_ASP_CONTACT\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "D:\\Users\\bartosz.bienienda\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "D:\\Users\\bartosz.bienienda\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.25\\microsoft.aspnetcore.cryptography.internal.6.0.25.nupkg.sha512",
+    "D:\\Users\\bartosz.bienienda\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.25\\microsoft.aspnetcore.cryptography.keyderivation.6.0.25.nupkg.sha512",
+    "D:\\Users\\bartosz.bienienda\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.25\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.25.nupkg.sha512",
     "D:\\Users\\bartosz.bienienda\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.13\\microsoft.data.sqlite.core.7.0.13.nupkg.sha512",
     "D:\\Users\\bartosz.bienienda\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
     "D:\\Users\\bartosz.bienienda\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.13\\microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",
@@ -20,6 +23,8 @@
     "D:\\Users\\bartosz.bienienda\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "D:\\Users\\bartosz.bienienda\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "D:\\Users\\bartosz.bienienda\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0\\microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "D:\\Users\\bartosz.bienienda\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.25\\microsoft.extensions.identity.core.6.0.25.nupkg.sha512",
+    "D:\\Users\\bartosz.bienienda\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.25\\microsoft.extensions.identity.stores.6.0.25.nupkg.sha512",
     "D:\\Users\\bartosz.bienienda\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "D:\\Users\\bartosz.bienienda\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "D:\\Users\\bartosz.bienienda\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",

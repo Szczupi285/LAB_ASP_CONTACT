@@ -1,9 +1,10 @@
 ﻿using labolatorium_3___App.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace labolatorium_3___App.Controllers
 {
-
+    [Authorize]
     public class ContactController : Controller
     {
         private readonly IContactService _contactService;
@@ -12,7 +13,7 @@ namespace labolatorium_3___App.Controllers
         {
             _contactService = contactService;
         }
-
+        [AllowAnonymous]
         public IActionResult Index()
         {
             return View(_contactService.FindAll());
