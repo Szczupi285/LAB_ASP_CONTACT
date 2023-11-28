@@ -1,0 +1,69 @@
+﻿@model Contact
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<form asp-controller="Contact" asp-action="CreateApi" method="post">
+
+    <h1>Create Contact</h1>
+    <div class="mb-3">
+        <label asp-for="Name"></label>
+        <input class="form-control" asp-for="Name" />
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Email"></label>
+        <input class="form-control" asp-for="Email" />
+        <span class="text-danger" asp-validation-for="Email"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Phone"></label>
+        <input class="form-control" asp-for="Phone" />
+        <span class="text-danger" asp-validation-for="Phone"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Birth"></label>
+        <input class="form-control" asp-for="Birth" />
+        <span class="text-danger" asp-validation-for="Birth"></span>
+    </div>
+    <div>
+        <label asp-for="Priority"></label>
+        <span asp-validation-for="Priority" class="text-danger"></span>
+        <select class="form-control" asp-for="Priority" asp-items="@Html.GetEnumSelectList<Priority>()"></select>
+    </div>
+    <div>
+        <label asp-for="OrganizationId">Organisation</label>
+        <input class="form-control" type="text" id="filter" />
+        <select class="form-control" id="OrganizationId"></select>
+        <a asp-action="CreateApi" asp-controller="Organization"></a>
+    </div>
+    <div class="mb-3">
+        <button class="btn btn-primary" type="submit">Create</button>
+    </div>
+
+
+</form>
+
+@section Scripts{
+        <script>
+            const select = document.getElementById("OrganizationId");
+            const filter = document.getElementById("filter");
+            filter.onchange = function(){
+            select.innerHTML = "";
+            fetch(`/api/OrganizationsApi/?filter=${filter.value}`)
+                .then(response => response.json())
+                .then(arr => {
+                    for (let org of arr) {
+                        let option = document.createElement('option');
+                        option.setAttribute('value', org.id);
+                        option.innerText = org.name;
+                        select.appendChild(option);
+
+                    }
+                })
+            }
+          
+        </script>
+}

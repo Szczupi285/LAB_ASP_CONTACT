@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace labolatorium_3___App.Controllers
 {
-    [Authorize]
+    
     public class ContactController : Controller
     {
         private readonly IContactService _contactService;
@@ -93,9 +93,28 @@ namespace labolatorium_3___App.Controllers
         {
             return RedirectToAction("Index");
         }
+
+
+
+        [HttpGet]
+        public IActionResult CreateApi()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult CreateApi(Contact model)
+        {
+            if (ModelState.IsValid)
+            {
+                _contactService.Add(model);
+                return RedirectToAction("Index");
+            }
+            else
+                return View(model);
+        }
+
+
     }
-
-
-
 
 }
