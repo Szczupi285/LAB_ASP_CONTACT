@@ -30,5 +30,26 @@ namespace labolatorium_3___App.Models
                 OrganizationId = entity.OrganizationId,
             };
         }
+
+        public static List<Contact> FromEntityList(List<ContactEntity> entities)
+        {
+
+            List<Contact> contacts = new List<Contact>();
+            foreach(var entity in entities)
+            {
+                Contact contact = new Contact()
+                {
+                    Id = entity.Id,
+                    Name = entity.Name,
+                    Email = entity.Email,
+                    Phone = entity.Phone,
+                    Birth = entity.Birth,
+                    OrganizationId = entity.OrganizationId,
+                };
+                contacts.Add(contact);
+            }
+
+            return contacts;
+        }
     }
 }

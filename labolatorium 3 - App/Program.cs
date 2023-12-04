@@ -10,7 +10,7 @@ namespace labolatorium_3___App
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-                        var connectionString = builder.Configuration.GetConnectionString("AppDbContextConnection") ?? throw new InvalidOperationException("Connection string 'AppDbContextConnection' not found.");
+            var connectionString = builder.Configuration.GetConnectionString("AppDbContextConnection") ?? throw new InvalidOperationException("Connection string 'AppDbContextConnection' not found.");
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
@@ -20,8 +20,8 @@ namespace labolatorium_3___App
             builder.Services.AddSession();
             builder.Services.AddDbContext<AppDbContext>();
 
-                        builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-                .AddEntityFrameworkStores<AppDbContext>();
+            builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+    .AddEntityFrameworkStores<AppDbContext>();
             builder.Services.AddTransient<IContactService, EFContactService>();
 
             var app = builder.Build();
@@ -38,7 +38,7 @@ namespace labolatorium_3___App
             app.UseStaticFiles();
 
             app.UseRouting();
-            app.UseAuthentication();;
+            app.UseAuthentication(); ;
             app.UseAuthorization();
             app.UseSession();
             app.MapRazorPages();

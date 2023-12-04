@@ -1,6 +1,7 @@
 ﻿using labolatorium_3___App.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace labolatorium_3___App.Controllers
 {
@@ -112,6 +113,11 @@ namespace labolatorium_3___App.Controllers
             }
             else
                 return View(model);
+        }
+
+        public IActionResult PagedIndex([FromQuery] int page = 1, [FromQuery] int size = 2)
+        {
+            return View(_contactService.FindPage(page, size));
         }
 
 

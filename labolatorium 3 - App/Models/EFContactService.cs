@@ -53,5 +53,22 @@ namespace labolatorium_3___App.Models
             _context.Update(entity);
             _context.SaveChanges();
         }
+        public PagingList<Contact> FindPage(int page, int size)
+        {
+            var list = PagingList<Contact>.Create(
+              (p, s) => ContactMapper.FromEntityList(
+                        _context.Contacts
+                      .OrderBy(b => b.Name)
+                      .Skip((p - 1) * size)
+                      .Take(s)
+                      .ToList()),
+              _context.Contacts.Count(),
+              page,
+              size);
+
+            return list;
+        }
+
+
     }
 }
