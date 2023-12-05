@@ -117,3 +117,34 @@ D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\refin
 D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\laboratorium 1.pdb
 D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\laboratorium 1.genruntimeconfig.cache
 D:\Users\bartosz.bienienda\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\ref\laboratorium 1.dll
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\bin\Debug\net6.0\appsettings.json
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\bin\Debug\net6.0\laboratorium 1.staticwebassets.runtime.json
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\bin\Debug\net6.0\laboratorium 1.exe
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\bin\Debug\net6.0\laboratorium 1.deps.json
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\bin\Debug\net6.0\laboratorium 1.runtimeconfig.json
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\bin\Debug\net6.0\laboratorium 1.dll
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\bin\Debug\net6.0\laboratorium 1.pdb
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\laboratorium 1.csproj.AssemblyReference.cache
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\laboratorium 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\laboratorium 1.AssemblyInfoInputs.cache
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\laboratorium 1.AssemblyInfo.cs
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\laboratorium 1.csproj.CoreCompileInputs.cache
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\laboratorium 1.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\laboratorium 1.RazorAssemblyInfo.cache
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\laboratorium 1.RazorAssemblyInfo.cs
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\staticwebassets\msbuild.laboratorium 1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\staticwebassets\msbuild.build.laboratorium 1.props
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.laboratorium 1.props
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.laboratorium 1.props
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\scopedcss\bundle\laboratorium 1.styles.css
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\scopedcss\projectbundle\laboratorium 1.bundle.scp.css
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\laboratorium 1.dll
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\refint\laboratorium 1.dll
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\laboratorium 1.pdb
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\laboratorium 1.genruntimeconfig.cache
+D:\Users\bartosz.bienienda\labasp\LAB_ASP_CONTACT\laboratorium 1\obj\Debug\net6.0\ref\laboratorium 1.dll

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\repository\\LAB_ASP_CONTACT\\labolatorium 3 - App\\labolatorium 3 - App.csproj": {}
+    "D:\\Users\\bartosz.bienienda\\labasp\\LAB_ASP_CONTACT\\labolatorium 3 - App\\labolatorium 3 - App.csproj": {}
   },
   "projects": {
-    "E:\\repository\\LAB_ASP_CONTACT\\Data\\Data.csproj": {
+    "D:\\Users\\bartosz.bienienda\\labasp\\LAB_ASP_CONTACT\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\repository\\LAB_ASP_CONTACT\\Data\\Data.csproj",
+        "projectUniqueName": "D:\\Users\\bartosz.bienienda\\labasp\\LAB_ASP_CONTACT\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "E:\\repository\\LAB_ASP_CONTACT\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\barte\\.nuget\\packages\\",
-        "outputPath": "E:\\repository\\LAB_ASP_CONTACT\\Data\\obj\\",
+        "projectPath": "D:\\Users\\bartosz.bienienda\\labasp\\LAB_ASP_CONTACT\\Data\\Data.csproj",
+        "packagesPath": "D:\\Users\\bartosz.bienienda\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\bartosz.bienienda\\labasp\\LAB_ASP_CONTACT\\Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\vs2022\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\barte\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "D:\\Users\\bartosz.bienienda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -86,25 +81,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\repository\\LAB_ASP_CONTACT\\labolatorium 3 - App\\labolatorium 3 - App.csproj": {
+    "D:\\Users\\bartosz.bienienda\\labasp\\LAB_ASP_CONTACT\\labolatorium 3 - App\\labolatorium 3 - App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\repository\\LAB_ASP_CONTACT\\labolatorium 3 - App\\labolatorium 3 - App.csproj",
+        "projectUniqueName": "D:\\Users\\bartosz.bienienda\\labasp\\LAB_ASP_CONTACT\\labolatorium 3 - App\\labolatorium 3 - App.csproj",
         "projectName": "labolatorium 3 - App",
-        "projectPath": "E:\\repository\\LAB_ASP_CONTACT\\labolatorium 3 - App\\labolatorium 3 - App.csproj",
-        "packagesPath": "C:\\Users\\barte\\.nuget\\packages\\",
-        "outputPath": "E:\\repository\\LAB_ASP_CONTACT\\labolatorium 3 - App\\obj\\",
+        "projectPath": "D:\\Users\\bartosz.bienienda\\labasp\\LAB_ASP_CONTACT\\labolatorium 3 - App\\labolatorium 3 - App.csproj",
+        "packagesPath": "D:\\Users\\bartosz.bienienda\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\bartosz.bienienda\\labasp\\LAB_ASP_CONTACT\\labolatorium 3 - App\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\vs2022\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\barte\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "D:\\Users\\bartosz.bienienda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -112,15 +103,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\repository\\LAB_ASP_CONTACT\\Data\\Data.csproj": {
-                "projectPath": "E:\\repository\\LAB_ASP_CONTACT\\Data\\Data.csproj"
+              "D:\\Users\\bartosz.bienienda\\labasp\\LAB_ASP_CONTACT\\Data\\Data.csproj": {
+                "projectPath": "D:\\Users\\bartosz.bienienda\\labasp\\LAB_ASP_CONTACT\\Data\\Data.csproj"
               }
             }
           }
@@ -183,7 +174,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
